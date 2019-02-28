@@ -71,7 +71,7 @@ sgminer-specific configuration options:
 
 #### Debian Example
 
-    apt-get install libcurl4-openssl-dev pkg-config libtool libncurses5-dev
+    apt-get install libcurl4-openssl-dev pkg-config libtool libncurses5-dev ocl-icd-opencl-dev opencl-headers
 AMD APP SDK and AMD ADL SDK must be downloaded from the amd websites.
 
 ### *nix build instructions
